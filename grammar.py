@@ -153,9 +153,10 @@ def parse(expr, parse_table, terminals, non_terminals):
     print("-")
 
     matched = "-"
-    while(True):
+    i = 0
+    while(i < 100):
         action = "-"
-
+        i += 1
         if(stack[0] == expr[0] and stack[0] == "$"):
             break
 
