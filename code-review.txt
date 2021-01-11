@@ -1,0 +1,16 @@
+Code Review - Lab 7
+https://github.com/teodoraalexandra/Team-FLCD
+
+Main.java
+
+-very well organized
+
+Grammar.java
+
+-a couple variables p, prd
+
+Parser.java
+
+-nice use of lambdas
+-well structured code
+-good flow of algorithms
